@@ -1,0 +1,10 @@
+/Users/linh.nguyenmy/Documents/circle-ci-setup/bin/Debug/netcoreapp2.0/circle-ci-setup.deps.json
+/Users/linh.nguyenmy/Documents/circle-ci-setup/bin/Debug/netcoreapp2.0/circle-ci-setup.runtimeconfig.json
+/Users/linh.nguyenmy/Documents/circle-ci-setup/bin/Debug/netcoreapp2.0/circle-ci-setup.runtimeconfig.dev.json
+/Users/linh.nguyenmy/Documents/circle-ci-setup/bin/Debug/netcoreapp2.0/circle-ci-setup.dll
+/Users/linh.nguyenmy/Documents/circle-ci-setup/bin/Debug/netcoreapp2.0/circle-ci-setup.pdb
+/Users/linh.nguyenmy/Documents/circle-ci-setup/obj/Debug/netcoreapp2.0/circle-ci-setup.csproj.CoreCompileInputs.cache
+/Users/linh.nguyenmy/Documents/circle-ci-setup/obj/Debug/netcoreapp2.0/circle-ci-setup.AssemblyInfoInputs.cache
+/Users/linh.nguyenmy/Documents/circle-ci-setup/obj/Debug/netcoreapp2.0/circle-ci-setup.AssemblyInfo.cs
+/Users/linh.nguyenmy/Documents/circle-ci-setup/obj/Debug/netcoreapp2.0/circle-ci-setup.dll
+/Users/linh.nguyenmy/Documents/circle-ci-setup/obj/Debug/netcoreapp2.0/circle-ci-setup.pdb
